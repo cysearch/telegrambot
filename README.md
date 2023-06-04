@@ -15,7 +15,7 @@ pip install .
 
 ## Usage
 
-To send a message using the Telegram Web API, you can utilize the `send_telegram_message` function provided by the `telegram_api` module. (Note : make sure to escape with a backslash  '\' all the following characters '_' '*' '[' ']' '(' ')' '~' '`' '>' '#' '+' '-' '=' '|' '{' '}' '.' '!'
+To send a message using the Telegram Web API, you can utilize the `send_telegram_message` function provided by the `telegram_api` module. (Note : make sure to escape with a backslash  '\\' all the following characters '_' '*' '[' ']' '(' ')' '~' '`' '>' '#' '+' '-' '=' '|' '{' '}' '.' '!'
 Here's an example usage:
 
 ```python
