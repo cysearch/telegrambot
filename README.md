@@ -8,7 +8,7 @@ You can install the `telegram` package using `git` and `pip`:
 
 ```bash
 git clone https://github.com/cysearch/telegrambot.git
- nano telegrambot/cytelegrambot/telegram_api.py # modify here with your own Telegram Chat ID and your Telegram bot Token
+nano telegrambot/cytelegrambot/telegram_api.py # modify here with your own Telegram Chat ID and your Telegram bot Token
 cd telegrambot
 pip install .
 ```
